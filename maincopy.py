@@ -5,8 +5,8 @@ import ir_datasets
 # Your Elasticsearch cluster credentials
 es_host = "localhost"  # or the address of your Elasticsearch cluster
 es_port = 9200  # default port for Elasticsearch
-es_user = "superuser"  # replace with your actual Elasticsearch username
-es_password = "1452"  # replace with your actual Elasticsearch password
+es_user = "yyy"  # replace with your actual Elasticsearch username
+es_password = "xxx"  # replace with your actual Elasticsearch password
 
 # Creating an Elasticsearch client instance with HTTP Basic Authentication and HTTPS
 es_client = Elasticsearch(
